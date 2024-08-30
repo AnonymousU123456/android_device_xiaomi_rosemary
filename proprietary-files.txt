@@ -1,21 +1,4 @@
 
-vendor/lib/libaurisysdemo.so
-vendor/lib/libawinicsmartpaparse.so
-vendor/lib/libbessound_hd_mtk_vendor.so
-vendor/lib/libblisrc32_vendor.so
-vendor/lib/libcvsd_mtk.so
-vendor/lib/libfvaudio.so
-vendor/lib/librt_extamp_intf.so
-vendor/lib/libspeech_enh_lib.so
-vendor/lib/libspeechparser_vendor.so
-vendor/lib/libverno.so
-vendor/lib/libvow_ap_test_aa.so
-vendor/lib/libvow_ap_test_dd.so
-vendor/lib/libvow_ap_test_ha.so
-vendor/lib/libvow_ap_test_hh.so
-vendor/lib/libvow_ap_test_nn.so
-vendor/lib/vendor.mediatek.hardware.audio@6.1.so
-vendor/lib/vendor.mediatek.hardware.audio@7.1.so
 vendor/lib64/hw/android.hardware.audio@6.0-impl-mediatek.so
 vendor/lib64/hw/android.hardware.audio@7.0-impl-mediatek.so
 vendor/lib64/hw/audio.primary.mt6785.so
