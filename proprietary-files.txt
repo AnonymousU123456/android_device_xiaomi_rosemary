@@ -1,48 +1,4 @@
-# Unpinned blobs from rosemary-user 12 SP1A.210812.016 V14.0.7.0.TKLMIXM release-keys
 
-
-# APU
-vendor/lib/libapu_mdw.so
-vendor/lib/libapusys.so
-vendor/lib/libapusys_edma.so
-vendor/lib/vendor.mediatek.hardware.apuware.utils@2.0.so
-vendor/lib64/libapu_mdw.so
-vendor/lib64/libapusys.so
-vendor/lib64/libapusys_edma.so
-vendor/lib64/vendor.mediatek.hardware.apuware.utils@2.0.so
-vendor/lib64/vendor.mediatek.hardware.apuware.xrp@1.0.so
-
-# Audio
-vendor/bin/atcid
-vendor/bin/audiocmdservice_atci
-vendor/bin/mt6660_calibration
-vendor/bin/rt5512_calibration
-vendor/etc/init/atcid.rc
-vendor/etc/init/audiocmdservice_atci.rc
-vendor/etc/smartpa_param/AW_DSP.bin
-vendor/etc/FV-SAM-MTK2.dat
-vendor/lib/hw/android.hardware.audio@6.0-impl-mediatek.so
-vendor/lib/hw/android.hardware.audio@7.0-impl-mediatek.so
-vendor/lib/hw/audio.primary.mt6785.so
-vendor/lib/hw/audio.r_submix.mt6785.so
-vendor/lib/libalsautils.so
-vendor/lib/libMtkSpeechEnh.so
-vendor/lib/lib_bsscore.so
-vendor/lib/lib_iir.so
-vendor/lib/lib_speech_enh.so
-vendor/lib/libadpcmdec_mtk.so
-vendor/lib/libalacdec_mtk.so
-vendor/lib/libaudio_param_parser-vnd.so
-vendor/lib/libaudiocompensationfilter_vendor.so
-vendor/lib/libaudiocompensationfilterc.so
-vendor/lib/libaudiocomponentengine_vendor.so
-vendor/lib/libaudiocomponentenginec.so
-vendor/lib/libaudiocustparam_vendor.so
-vendor/lib/libaudiodcrflt_vendor.so
-vendor/lib/libaudiofmtconv.so
-vendor/lib/libaudioloudc.so
-vendor/lib/libaudioprimarydevicehalifclient.so
-vendor/lib/libaudiotoolkit_vendor.so
 vendor/lib/libaurisysdemo.so
 vendor/lib/libawinicsmartpaparse.so
 vendor/lib/libbessound_hd_mtk_vendor.so
